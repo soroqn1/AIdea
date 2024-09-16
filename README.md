@@ -1,2 +1,2 @@
 # AI-COPILOT
-My first AI project for using AI faster and easy.
+My first AI project for using AI faster.
